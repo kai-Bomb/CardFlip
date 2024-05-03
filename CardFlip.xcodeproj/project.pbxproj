@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8BEB0C7B2BE50788009B44A0 /* CardFlipApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BEB0C7A2BE50788009B44A0 /* CardFlipApp.swift */; };
-		8BEB0C7D2BE50788009B44A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BEB0C7C2BE50788009B44A0 /* ContentView.swift */; };
+		8BEB0C7D2BE50788009B44A0 /* FripCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BEB0C7C2BE50788009B44A0 /* FripCard.swift */; };
 		8BEB0C7F2BE50789009B44A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BEB0C7E2BE50789009B44A0 /* Assets.xcassets */; };
 		8BEB0C822BE50789009B44A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BEB0C812BE50789009B44A0 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		8BEB0C772BE50788009B44A0 /* CardFlip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardFlip.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BEB0C7A2BE50788009B44A0 /* CardFlipApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardFlipApp.swift; sourceTree = "<group>"; };
-		8BEB0C7C2BE50788009B44A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8BEB0C7C2BE50788009B44A0 /* FripCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FripCard.swift; sourceTree = "<group>"; };
 		8BEB0C7E2BE50789009B44A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BEB0C812BE50789009B44A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				8BEB0C7A2BE50788009B44A0 /* CardFlipApp.swift */,
-				8BEB0C7C2BE50788009B44A0 /* ContentView.swift */,
+				8BEB0C7C2BE50788009B44A0 /* FripCard.swift */,
 				8BEB0C7E2BE50789009B44A0 /* Assets.xcassets */,
 				8BEB0C802BE50789009B44A0 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8BEB0C7D2BE50788009B44A0 /* ContentView.swift in Sources */,
+				8BEB0C7D2BE50788009B44A0 /* FripCard.swift in Sources */,
 				8BEB0C7B2BE50788009B44A0 /* CardFlipApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
